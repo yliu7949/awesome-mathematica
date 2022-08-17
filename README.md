@@ -1,2 +1,2 @@
-# awesome-mathematica
-A list of awesome Mathematica functions, models and notebooks
+# awesome-wolfram-language
+A list of awesome functions, models and notebooks written in the Wolfram Language.
